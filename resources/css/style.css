@@ -1,0 +1,32 @@
+body {
+  background-color: black;
+  font-family: Verdana;
+  text-align: center;
+}
+
+h1 {
+    font-weight: normal;
+    color: white;
+    font-size: 50px;
+}
+
+.cta {
+     color: Aquamarine;
+     font-size: 16px;
+     }
+.video {
+        object-fit: contain;
+}
+h2 {
+    font-weight: 300;
+    color: white;
+    font-size: 42px;
+}
+h4 {
+    color: gray;
+    font-size: 21px;
+  }
+h3 {
+      text-align: right;
+   color: gray;
+ }
